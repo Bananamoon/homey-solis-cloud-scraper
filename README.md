@@ -1,5 +1,9 @@
 # Solis Cloud Scraper 
 
+=========
+THIS APP IS STILL IN DEVELOPMENT, PLEASE DON'T USE YET. IT WILL NOT WORK
+=========
+
 The Solis Cloud scraper does the following
 * Scrapes data from your plant data at soliscloud.com on demand
 * Exposes the data via service end points
